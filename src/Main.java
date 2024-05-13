@@ -90,7 +90,8 @@ public class Main {
        else if (two>one && two>three){
             System.out.println(two);
        }
-        else if (three>one && three>two){System.out.println(three);
+        else if (three>one && three>two){
+            System.out.println(three);
         }
     }
 }
